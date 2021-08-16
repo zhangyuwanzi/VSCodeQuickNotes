@@ -5,3 +5,4 @@
 
 ## Settings
 * `quickNotes.fileName`: specify notes file name (default: ./.vscode/notes.txt).
+Hello world
